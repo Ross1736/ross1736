@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&vCenter=true&random=false&width=600&lines=Desarrollador+Web%2FMóvil+Full+Stack;Trabajo+principalmente+con+React+%7C+React+Native)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&vCenter=true&random=false&width=600&lines=Full+Stack+Web%2FMobile+Developer;I+work+mainly+with+React+%7C+React+Native)](https://git.io/typing-svg)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Ross1736&theme=dark&hide_border=false)

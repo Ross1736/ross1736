@@ -1,5 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&vCenter=true&random=false&width=600&lines=Desarrollador+Web%2FMóvil+Full+Stack;Trabajo+principalmente+con+React+%7C+React+Native)](https://git.io/typing-svg)
 
+## 🙋‍♀️ Let's Connect
+
 <p align="start">
 	<a href="mailto:bryan1736b@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://github.com/Ross1736"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
